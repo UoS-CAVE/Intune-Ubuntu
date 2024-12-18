@@ -2,7 +2,7 @@
 ## installation
 run: 
 
-`wget https://raw.githubusercontent.com/UoS-CAVE/Intune-Ubuntu/refs/heads/master/install.sh && chmod 755 ./install.sh && sudo ./install.sh`
+`wget https://raw.githubusercontent.com/UoS-CAVE/Intune-Ubuntu/refs/heads/main/install.sh && chmod 755 ./install.sh && sudo ./install.sh`
 
 and then reboot your system before attempting to sign into the intune app.
 
